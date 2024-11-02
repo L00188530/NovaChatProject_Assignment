@@ -1,9 +1,16 @@
 # Frontend UI code update
 # Task completed    
 # - chat box
+<<<<<<< HEAD
 # - font format
+=======
+# - font format
+<<<<<<< HEAD
+=======
 # - emojis added
+>>>>>>> c18e8a576ffca3d442d4309fd4d55b178965417b
 
 
 # Backend code here
 # Connection handling task completed
+>>>>>>> c18e8a576ffca3d442d4309fd4d55b178965417b
